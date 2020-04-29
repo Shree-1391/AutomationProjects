@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[User Logged into application Successfully]]>
+    </line>
+    <line>
+      <![CDATA[User searched product Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Cart count is: 1]]>
+    </line>
+    <line>
+      <![CDATA[User added 1 product to the cart Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page: Your cart]]>
+    </line>
+    <line>
+      <![CDATA[Added Product Details: Round Neck Shirt 16]]>
+    </line>
+    <line>
+      <![CDATA[Product Price is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Product Quantity: 1]]>
+    </line>
+    <line>
+      <![CDATA[Product Total is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Sub Total is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[User Logged into application Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Cart count is: 1]]>
+    </line>
+    <line>
+      <![CDATA[User added 1 product to the cart Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page: Your cart]]>
+    </line>
+    <line>
+      <![CDATA[Added Product Details: RoundNeck Shirt 14]]>
+    </line>
+    <line>
+      <![CDATA[Product Price is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Product Quantity: 1]]>
+    </line>
+    <line>
+      <![CDATA[Product Total is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Sub Total is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[User Logged into application Successfully]]>
+    </line>
+    <line>
+      <![CDATA[User searched product Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Cart count is: 1]]>
+    </line>
+    <line>
+      <![CDATA[User added 1 product to the cart Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Added Product Details: Round Neck Shirt 16]]>
+    </line>
+    <line>
+      <![CDATA[Product Price is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Product Quantity: 1]]>
+    </line>
+    <line>
+      <![CDATA[Product Total is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Expected Product Total is: 2677.22]]>
+    </line>
+    <line>
+      <![CDATA[----------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Increased Product Quantity: 2]]>
+    </line>
+    <line>
+      <![CDATA[Changed Product Total: Rs. 2,677.22]]>
+    </line>
+    <line>
+      <![CDATA[Sub Total is: Rs. 2,677.22]]>
+    </line>
+    <line>
+      <![CDATA[Product Total and Sub Total Matched ]]>
+    </line>
+    <line>
+      <![CDATA[User Logged into application Successfully]]>
+    </line>
+    <line>
+      <![CDATA[User searched product Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Cart count is: 1]]>
+    </line>
+    <line>
+      <![CDATA[User added 1 product to the cart Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Remove link successfully ]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[Product deleted successfully from cart ]]>
+    </line>
+    <line>
+      <![CDATA[User Logged into application Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Cart count is: 4]]>
+    </line>
+    <line>
+      <![CDATA[User added 4 product to the cart Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page: Your cart]]>
+    </line>
+    <line>
+      <![CDATA[Added Product Details: RoundNeck Shirt]]>
+    </line>
+    <line>
+      <![CDATA[Product Price is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Product Quantity: 1]]>
+    </line>
+    <line>
+      <![CDATA[Product Total is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Added Product Details: Another Round Neck Shirt]]>
+    </line>
+    <line>
+      <![CDATA[Product Price is: Rs. 1,358.61]]>
+    </line>
+    <line>
+      <![CDATA[Product Quantity: 1]]>
+    </line>
+    <line>
+      <![CDATA[Product Total is: Rs. 1,358.61]]>
+    </line>
+    <line>
+      <![CDATA[Added Product Details: Round Neck Shirt 5]]>
+    </line>
+    <line>
+      <![CDATA[Product Price is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Product Quantity: 1]]>
+    </line>
+    <line>
+      <![CDATA[Product Total is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Added Product Details: Round Neck Shirt 6]]>
+    </line>
+    <line>
+      <![CDATA[Product Price is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Product Quantity: 1]]>
+    </line>
+    <line>
+      <![CDATA[Product Total is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Added Product Details: RoundNeck Shirt 14]]>
+    </line>
+    <line>
+      <![CDATA[Product Price is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Product Quantity: 1]]>
+    </line>
+    <line>
+      <![CDATA[Product Total is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Sub Total is: Rs. 6,713.05]]>
+    </line>
+    <line>
+      <![CDATA[User Logged into application Successfully]]>
+    </line>
+    <line>
+      <![CDATA[User searched product Successfully]]>
+    </line>
+    <line>
+      <![CDATA[S]]>
+    </line>
+    <line>
+      <![CDATA[M]]>
+    </line>
+    <line>
+      <![CDATA[L]]>
+    </line>
+    <line>
+      <![CDATA[XL]]>
+    </line>
+    <line>
+      <![CDATA[2XL]]>
+    </line>
+    <line>
+      <![CDATA[3XL]]>
+    </line>
+    <line>
+      <![CDATA[4XL]]>
+    </line>
+    <line>
+      <![CDATA[Cart count is: 8]]>
+    </line>
+    <line>
+      <![CDATA[User added 8 product to the cart Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page: Your cart]]>
+    </line>
+    <line>
+      <![CDATA[Added Product Details: Round Neck Shirt 16]]>
+    </line>
+    <line>
+      <![CDATA[Product Price is: Rs. 1,797.57]]>
+    </line>
+    <line>
+      <![CDATA[Product Quantity: 1]]>
+    </line>
+    <line>
+      <![CDATA[Product Total is: Rs. 1,797.57]]>
+    </line>
+    <line>
+      <![CDATA[Added Product Details: Round Neck Shirt 16]]>
+    </line>
+    <line>
+      <![CDATA[Product Price is: Rs. 1,644.58]]>
+    </line>
+    <line>
+      <![CDATA[Product Quantity: 1]]>
+    </line>
+    <line>
+      <![CDATA[Product Total is: Rs. 1,644.58]]>
+    </line>
+    <line>
+      <![CDATA[Added Product Details: Round Neck Shirt 16]]>
+    </line>
+    <line>
+      <![CDATA[Product Price is: Rs. 1,529.85]]>
+    </line>
+    <line>
+      <![CDATA[Product Quantity: 1]]>
+    </line>
+    <line>
+      <![CDATA[Product Total is: Rs. 1,529.85]]>
+    </line>
+    <line>
+      <![CDATA[Added Product Details: Round Neck Shirt 16]]>
+    </line>
+    <line>
+      <![CDATA[Product Price is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Product Quantity: 1]]>
+    </line>
+    <line>
+      <![CDATA[Product Total is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Added Product Details: Round Neck Shirt 16]]>
+    </line>
+    <line>
+      <![CDATA[Product Price is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Product Quantity: 1]]>
+    </line>
+    <line>
+      <![CDATA[Product Total is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Added Product Details: Round Neck Shirt 16]]>
+    </line>
+    <line>
+      <![CDATA[Product Price is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Product Quantity: 1]]>
+    </line>
+    <line>
+      <![CDATA[Product Total is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Added Product Details: Round Neck Shirt 16]]>
+    </line>
+    <line>
+      <![CDATA[Product Price is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Product Quantity: 1]]>
+    </line>
+    <line>
+      <![CDATA[Product Total is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Added Product Details: Round Neck Shirt 16]]>
+    </line>
+    <line>
+      <![CDATA[Product Price is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Product Quantity: 1]]>
+    </line>
+    <line>
+      <![CDATA[Product Total is: Rs. 1,338.61]]>
+    </line>
+    <line>
+      <![CDATA[Sub Total is: Rs. 11,665.05]]>
+    </line>
+    <line>
+      <![CDATA[User Logged into application Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Silver]]>
+    </line>
+    <line>
+      <![CDATA[Burnt Orange]]>
+    </line>
+    <line>
+      <![CDATA[Cart count is: 2]]>
+    </line>
+    <line>
+      <![CDATA[User added 2 product to the cart Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page: Your cart]]>
+    </line>
+    <line>
+      <![CDATA[Added Product Details: Another Round Neck Shirt]]>
+    </line>
+    <line>
+      <![CDATA[Product Price is: Rs. 1,538.61]]>
+    </line>
+    <line>
+      <![CDATA[Product Quantity: 1]]>
+    </line>
+    <line>
+      <![CDATA[Product Total is: Rs. 1,538.61]]>
+    </line>
+    <line>
+      <![CDATA[Added Product Details: Another Round Neck Shirt]]>
+    </line>
+    <line>
+      <![CDATA[Product Price is: Rs. 1,358.61]]>
+    </line>
+    <line>
+      <![CDATA[Product Quantity: 1]]>
+    </line>
+    <line>
+      <![CDATA[Product Total is: Rs. 1,358.61]]>
+    </line>
+    <line>
+      <![CDATA[Sub Total is: Rs. 2,897.22]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="250531" started-at="2020-04-29T10:57:58Z" finished-at="2020-04-29T11:02:09Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberOptions.TestRunnerNG@6e06451e]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Functional Test" duration-ms="250531" started-at="2020-04-29T10:57:58Z" finished-at="2020-04-29T11:02:09Z">
+      <class name="cucumberOptions.TestRunnerNG">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:cucumberOptions.TestRunnerNG@6e06451e]" name="setUpClass" is-config="true" duration-ms="685" started-at="2020-04-29T10:57:58Z" finished-at="2020-04-29T10:57:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberOptions.TestRunnerNG@6e06451e]" name="feature" duration-ms="249565" started-at="2020-04-29T10:57:59Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-04-29T11:02:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[To add products to the Cart and Validate the Cart and Price]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[User Logged into application Successfully]]>
+            </line>
+            <line>
+              <![CDATA[User searched product Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Cart count is: 1]]>
+            </line>
+            <line>
+              <![CDATA[User added 1 product to the cart Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page: Your cart]]>
+            </line>
+            <line>
+              <![CDATA[Added Product Details: Round Neck Shirt 16]]>
+            </line>
+            <line>
+              <![CDATA[Product Price is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Product Quantity: 1]]>
+            </line>
+            <line>
+              <![CDATA[Product Total is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Sub Total is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[User Logged into application Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Cart count is: 1]]>
+            </line>
+            <line>
+              <![CDATA[User added 1 product to the cart Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page: Your cart]]>
+            </line>
+            <line>
+              <![CDATA[Added Product Details: RoundNeck Shirt 14]]>
+            </line>
+            <line>
+              <![CDATA[Product Price is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Product Quantity: 1]]>
+            </line>
+            <line>
+              <![CDATA[Product Total is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Sub Total is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[User Logged into application Successfully]]>
+            </line>
+            <line>
+              <![CDATA[User searched product Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Cart count is: 1]]>
+            </line>
+            <line>
+              <![CDATA[User added 1 product to the cart Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Added Product Details: Round Neck Shirt 16]]>
+            </line>
+            <line>
+              <![CDATA[Product Price is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Product Quantity: 1]]>
+            </line>
+            <line>
+              <![CDATA[Product Total is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Expected Product Total is: 2677.22]]>
+            </line>
+            <line>
+              <![CDATA[----------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Increased Product Quantity: 2]]>
+            </line>
+            <line>
+              <![CDATA[Changed Product Total: Rs. 2,677.22]]>
+            </line>
+            <line>
+              <![CDATA[Sub Total is: Rs. 2,677.22]]>
+            </line>
+            <line>
+              <![CDATA[Product Total and Sub Total Matched ]]>
+            </line>
+            <line>
+              <![CDATA[User Logged into application Successfully]]>
+            </line>
+            <line>
+              <![CDATA[User searched product Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Cart count is: 1]]>
+            </line>
+            <line>
+              <![CDATA[User added 1 product to the cart Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Remove link successfully ]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[Product deleted successfully from cart ]]>
+            </line>
+            <line>
+              <![CDATA[User Logged into application Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Cart count is: 4]]>
+            </line>
+            <line>
+              <![CDATA[User added 4 product to the cart Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page: Your cart]]>
+            </line>
+            <line>
+              <![CDATA[Added Product Details: RoundNeck Shirt]]>
+            </line>
+            <line>
+              <![CDATA[Product Price is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Product Quantity: 1]]>
+            </line>
+            <line>
+              <![CDATA[Product Total is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Added Product Details: Another Round Neck Shirt]]>
+            </line>
+            <line>
+              <![CDATA[Product Price is: Rs. 1,358.61]]>
+            </line>
+            <line>
+              <![CDATA[Product Quantity: 1]]>
+            </line>
+            <line>
+              <![CDATA[Product Total is: Rs. 1,358.61]]>
+            </line>
+            <line>
+              <![CDATA[Added Product Details: Round Neck Shirt 5]]>
+            </line>
+            <line>
+              <![CDATA[Product Price is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Product Quantity: 1]]>
+            </line>
+            <line>
+              <![CDATA[Product Total is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Added Product Details: Round Neck Shirt 6]]>
+            </line>
+            <line>
+              <![CDATA[Product Price is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Product Quantity: 1]]>
+            </line>
+            <line>
+              <![CDATA[Product Total is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Added Product Details: RoundNeck Shirt 14]]>
+            </line>
+            <line>
+              <![CDATA[Product Price is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Product Quantity: 1]]>
+            </line>
+            <line>
+              <![CDATA[Product Total is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Sub Total is: Rs. 6,713.05]]>
+            </line>
+            <line>
+              <![CDATA[User Logged into application Successfully]]>
+            </line>
+            <line>
+              <![CDATA[User searched product Successfully]]>
+            </line>
+            <line>
+              <![CDATA[S]]>
+            </line>
+            <line>
+              <![CDATA[M]]>
+            </line>
+            <line>
+              <![CDATA[L]]>
+            </line>
+            <line>
+              <![CDATA[XL]]>
+            </line>
+            <line>
+              <![CDATA[2XL]]>
+            </line>
+            <line>
+              <![CDATA[3XL]]>
+            </line>
+            <line>
+              <![CDATA[4XL]]>
+            </line>
+            <line>
+              <![CDATA[Cart count is: 8]]>
+            </line>
+            <line>
+              <![CDATA[User added 8 product to the cart Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page: Your cart]]>
+            </line>
+            <line>
+              <![CDATA[Added Product Details: Round Neck Shirt 16]]>
+            </line>
+            <line>
+              <![CDATA[Product Price is: Rs. 1,797.57]]>
+            </line>
+            <line>
+              <![CDATA[Product Quantity: 1]]>
+            </line>
+            <line>
+              <![CDATA[Product Total is: Rs. 1,797.57]]>
+            </line>
+            <line>
+              <![CDATA[Added Product Details: Round Neck Shirt 16]]>
+            </line>
+            <line>
+              <![CDATA[Product Price is: Rs. 1,644.58]]>
+            </line>
+            <line>
+              <![CDATA[Product Quantity: 1]]>
+            </line>
+            <line>
+              <![CDATA[Product Total is: Rs. 1,644.58]]>
+            </line>
+            <line>
+              <![CDATA[Added Product Details: Round Neck Shirt 16]]>
+            </line>
+            <line>
+              <![CDATA[Product Price is: Rs. 1,529.85]]>
+            </line>
+            <line>
+              <![CDATA[Product Quantity: 1]]>
+            </line>
+            <line>
+              <![CDATA[Product Total is: Rs. 1,529.85]]>
+            </line>
+            <line>
+              <![CDATA[Added Product Details: Round Neck Shirt 16]]>
+            </line>
+            <line>
+              <![CDATA[Product Price is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Product Quantity: 1]]>
+            </line>
+            <line>
+              <![CDATA[Product Total is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Added Product Details: Round Neck Shirt 16]]>
+            </line>
+            <line>
+              <![CDATA[Product Price is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Product Quantity: 1]]>
+            </line>
+            <line>
+              <![CDATA[Product Total is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Added Product Details: Round Neck Shirt 16]]>
+            </line>
+            <line>
+              <![CDATA[Product Price is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Product Quantity: 1]]>
+            </line>
+            <line>
+              <![CDATA[Product Total is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Added Product Details: Round Neck Shirt 16]]>
+            </line>
+            <line>
+              <![CDATA[Product Price is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Product Quantity: 1]]>
+            </line>
+            <line>
+              <![CDATA[Product Total is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Added Product Details: Round Neck Shirt 16]]>
+            </line>
+            <line>
+              <![CDATA[Product Price is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Product Quantity: 1]]>
+            </line>
+            <line>
+              <![CDATA[Product Total is: Rs. 1,338.61]]>
+            </line>
+            <line>
+              <![CDATA[Sub Total is: Rs. 11,665.05]]>
+            </line>
+            <line>
+              <![CDATA[User Logged into application Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Silver]]>
+            </line>
+            <line>
+              <![CDATA[Burnt Orange]]>
+            </line>
+            <line>
+              <![CDATA[Cart count is: 2]]>
+            </line>
+            <line>
+              <![CDATA[User added 2 product to the cart Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page: Your cart]]>
+            </line>
+            <line>
+              <![CDATA[Added Product Details: Another Round Neck Shirt]]>
+            </line>
+            <line>
+              <![CDATA[Product Price is: Rs. 1,538.61]]>
+            </line>
+            <line>
+              <![CDATA[Product Quantity: 1]]>
+            </line>
+            <line>
+              <![CDATA[Product Total is: Rs. 1,538.61]]>
+            </line>
+            <line>
+              <![CDATA[Added Product Details: Another Round Neck Shirt]]>
+            </line>
+            <line>
+              <![CDATA[Product Price is: Rs. 1,358.61]]>
+            </line>
+            <line>
+              <![CDATA[Product Quantity: 1]]>
+            </line>
+            <line>
+              <![CDATA[Product Total is: Rs. 1,358.61]]>
+            </line>
+            <line>
+              <![CDATA[Sub Total is: Rs. 2,897.22]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:cucumberOptions.TestRunnerNG@6e06451e]" name="tearDownClass" is-config="true" duration-ms="11" started-at="2020-04-29T11:02:09Z" finished-at="2020-04-29T11:02:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- cucumberOptions.TestRunnerNG -->
+    </test> <!-- Functional Test -->
+  </suite> <!-- Suite -->
+</testng-results>
